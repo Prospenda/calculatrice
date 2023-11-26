@@ -1,6 +1,6 @@
 # Calculatrice
 
-Cette calculatrice est un projet simple développé en Java. Elle permet d'effectuer des opérations mathématiques de base, telles que l'addition, la soustraction, la multiplication et la division.
+Cette calculatrice est un projet simple développé en JavaScript. Elle permet d'effectuer des opérations mathématiques de base, telles que l'addition, la soustraction, la multiplication et la division.
 
 ## Fonctionnalités
 
